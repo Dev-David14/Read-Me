@@ -3,8 +3,8 @@
 <p>Eu sou David, ingressei na programação em 2022. Atualmente, estou estudando e adquirindo experiência para atuar na área e conquistar meu primeiro emprego. Também estou cursando Tecnólogo (ADS). Atualmente, sou desenvolvedor front-end, coletando experiência para me tornar um profissional full stack</p>
 <P>Rede Social: </P><li><a href="https://www.linkedin.com/in/david-santana-developer"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
 <br>
-Minha
-Linguagens e Ferramentas: 
+
+<p>Linguagens e Ferramentas: </p>
 <br>
 <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
 <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
