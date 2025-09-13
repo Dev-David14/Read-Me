@@ -19,6 +19,4 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-David14)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)]
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Dev-David14=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
